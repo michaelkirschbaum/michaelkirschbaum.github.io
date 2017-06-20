@@ -5,11 +5,11 @@ is_contact: true
 
 * Email: [mkirschbaum915@gmail.com](mailto:mkirschbaum915@gmail.com)
 
-* Phone: [+1-7044582515](tel:+1-7044582515)
+<!-- * Phone: [+1-7044582515](tel:+1-7044582515)
 
 ---
 
-<!-- ## Mailing Address
+## Mailing Address
 
 > 221B, Baker Street
 >
