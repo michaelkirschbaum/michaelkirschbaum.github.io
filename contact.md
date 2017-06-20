@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [mkirschbaum915@gmail.com](mailto:mkirschbaum915@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-7044582515](tel:+1-7044582515)
 
 ---
 
-## Mailing Address
+<!-- ## Mailing Address
 
 > 221B, Baker Street
 >
 > London
 >
-> United Kingdom
+> United Kingdom -->
 
 ---
 
