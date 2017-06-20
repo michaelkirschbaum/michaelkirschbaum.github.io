@@ -15,9 +15,9 @@ is_contact: true
 >
 > London
 >
-> United Kingdom -->
+> United Kingdom
 
----
+--- -->
 
 ## Social
 
