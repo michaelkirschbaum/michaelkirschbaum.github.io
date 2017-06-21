@@ -15,12 +15,12 @@ is_contact: true
 >
 > London
 >
-> United Kingdom
+> United Kingdom -->
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [@mbkirschbaum](https://twitter.com/mbkirschbaum)
-3. [Google+](#) -->
+1. [Instagram](https://instagram.com/michaelkirschbaum)
+2. [Twitter](https://twitter.com/mbkirschbaum)
+3. [GitHub](https://github.com/michaelkirschbaum)
