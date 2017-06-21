@@ -6,11 +6,11 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Michael designs and implements software systems and user interfaces as well as manages early-stage companies. He is currently working in the IoT space.
+Michael Kirschbaum designs and builds software and user interfaces as well as manages early-stage companies.
 
-His other interests are quantum computing and entrepreneurship. His hobbies include design, music, art, and writing.
+Michael is currently working in the IoT space. His other interests are quantum computing and entrepreneurship. His hobbies include design, music, art, and writing.
 
-He studied computer science and architecture at Clemson University and pursued graduate studies in mathematics at Portland State University.
+Michael studied computer science and architecture at Clemson University and pursued graduate studies in mathematics at Portland State University.
 
 <!-- ## Research Interest
 
