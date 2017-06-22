@@ -6,7 +6,7 @@ layout: default
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Michael Kirschbaum designs and builds software and user interfaces as well as manages early-stage companies.
+Michael Kirschbaum designs and builds software and user interfaces as well as manages startups.
 
 Michael is currently working in the IoT space. His other interests are quantum computing and entrepreneurship. His hobbies include design, music, art, and writing.
 
