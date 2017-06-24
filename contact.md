@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [mkirschbaum915@gmail.com](mailto:mkirschbaum915@gmail.com)
+* Email: [me@michaelkirschbaum.com](mailto:me@michaelkirschbaum.com)
 
 <!-- * Phone: [+1-7044582515](tel:+1-7044582515)
 
