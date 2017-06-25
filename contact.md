@@ -15,7 +15,7 @@ is_contact: true
 >
 > London
 >
-> United Kingdom -->
+> United Kingdom
 
 ---
 
@@ -23,4 +23,4 @@ is_contact: true
 
 1. [Instagram](https://instagram.com/michaelkirschbaum)
 2. [Twitter](https://twitter.com/mbkirschbaum)
-3. [GitHub](https://github.com/michaelkirschbaum)
+3. [GitHub](https://github.com/michaelkirschbaum) -->
