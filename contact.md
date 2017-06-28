@@ -4,7 +4,6 @@ is_contact: true
 ---
 
 * Email: [me@michaelkirschbaum.com](mailto:me@michaelkirschbaum.com)
-* [GitHub](https://github.com/michaelkirschbaum)
 <!-- * Phone: [+1-7044582515](tel:+1-7044582515)
 
 ---
