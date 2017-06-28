@@ -4,7 +4,7 @@ is_contact: true
 ---
 
 * Email: [me@michaelkirschbaum.com](mailto:me@michaelkirschbaum.com)
-
+* [GitHub](https://github.com/michaelkirschbaum)
 <!-- * Phone: [+1-7044582515](tel:+1-7044582515)
 
 ---
@@ -15,14 +15,12 @@ is_contact: true
 >
 > London
 >
-> United Kingdom -->
+> United Kingdom
 
 ---
 
 ## Social
 
-[GitHub](https://github.com/michaelkirschbaum)
-
-<!-- [Instagram](https://instagram.com/michaelkirschbaum)
+[Instagram](https://instagram.com/michaelkirschbaum)
 [Twitter](https://twitter.com/mbkirschbaum)
 [GitHub](https://github.com/michaelkirschbaum) -->
