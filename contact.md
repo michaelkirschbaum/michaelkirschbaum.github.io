@@ -15,12 +15,14 @@ is_contact: true
 >
 > London
 >
-> United Kingdom
+> United Kingdom -->
 
 ---
 
 ## Social
 
-1. [Instagram](https://instagram.com/michaelkirschbaum)
-2. [Twitter](https://twitter.com/mbkirschbaum)
-3. [GitHub](https://github.com/michaelkirschbaum) -->
+[GitHub](https://github.com/michaelkirschbaum)
+
+<!-- [Instagram](https://instagram.com/michaelkirschbaum)
+[Twitter](https://twitter.com/mbkirschbaum)
+[GitHub](https://github.com/michaelkirschbaum) -->
