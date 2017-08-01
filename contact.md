@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [contact@michaelkirschbaum.com](mailto:contact@michaelkirschbaum.com)
+* Email: [me@michaelkirschbaum.com](mailto:me@michaelkirschbaum.com)
 * Phone: 704.458.2515
 
 <!-- * Phone: [+1-7044582515](tel:+1-7044582515)
