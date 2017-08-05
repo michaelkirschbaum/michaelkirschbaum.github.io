@@ -20,8 +20,6 @@ is_contact: true
 
 ## Social -->
 
-[Instagram](https://instagram.com/michaelkirschbaum)
-
-[Twitter](https://twitter.com/mbkirschbaum)
-
+[Instagram](https://instagram.com/michaelkirschbaum)</br>
+[Twitter](https://twitter.com/mbkirschbaum)</br>
 [GitHub](https://github.com/michaelkirschbaum)
