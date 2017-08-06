@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<!-- <img class="profile-picture" src="sherlock.jpg"> -->
+<img class="profile-picture" src="sherlock.jpg">
 
 Michael Kirschbaum designs and builds software and user interfaces as well as manages startups.
 
