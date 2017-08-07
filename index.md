@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="profile.jpg">
+<!-- <img class="profile-picture" src="profile.jpg"> -->
 
 Michael Kirschbaum designs and builds software and user interfaces as well as manages startups.
 
