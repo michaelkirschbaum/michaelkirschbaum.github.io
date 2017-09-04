@@ -6,9 +6,7 @@ layout: default
 
 <!-- <img class="profile-picture" src="profile.jpg"> -->
 
-Michael Kirschbaum creates software products and user experiences as well as manages startups.
-
-Michael is currently working in the IoT space. His other interests are quantum computing and entrepreneurship. His hobbies include design, music, art, and writing.
+Michael Kirschbaum creates software products and user experiences as well as manages startups. His other interests are quantum computing and entrepreneurship. His hobbies include visual art and music.
 
 Michael studied computer science and architecture at Clemson University and pursued graduate studies in mathematics at Portland State University.
 
