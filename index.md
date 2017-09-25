@@ -14,8 +14,8 @@ Michael studied computer science and architecture at Clemson University and purs
 
 [Instagram](https://instagram.com/michaelkirschbaum)  
 [Twitter](https://twitter.com/mbkirschbaum)  
-[GitHub](https://github.com/michaelkirschbaum)
-[Medium](https://medium.com/@michaelkirschbaum)  
+[GitHub](https://github.com/michaelkirschbaum)  
+[Medium](https://medium.com/@michaelkirschbaum)
 
 ## Contact
 
