@@ -6,12 +6,6 @@ layout: default
 
 <!-- <img class="profile-picture" src="profile.jpg"> -->
 
-Michael Kirschbaum builds early-stage software products. He specializes in full stack JavaScript and the Python data science environment. His other interests are quantum computing and entrepreneurship. His hobbies include visual art and music.
-
-Michael studied computer science and architecture at Clemson University and pursued graduate studies in mathematics at Portland State University.
-
-## Social
-
 [Instagram](https://instagram.com/michaelkirschbaum)  
 [Twitter](https://twitter.com/mbkirschbaum)  
 [GitHub](https://github.com/michaelkirschbaum)  
