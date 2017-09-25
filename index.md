@@ -1,6 +1,7 @@
 ---
 layout: default
 bg: black
+color: black
 ---
 [Instagram](https://instagram.com/michaelkirschbaum)  
 [Twitter](https://twitter.com/mbkirschbaum)  
