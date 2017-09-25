@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-
-## About
-
-<!-- <img class="profile-picture" src="profile.jpg"> -->
-
 [Instagram](https://instagram.com/michaelkirschbaum)  
 [Twitter](https://twitter.com/mbkirschbaum)  
 [GitHub](https://github.com/michaelkirschbaum)  
