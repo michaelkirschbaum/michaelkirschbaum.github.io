@@ -65,7 +65,8 @@
 <body>
     <div class="wrapper">
         <div class="navbar container">
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a><br>
+            <text>Engineer, Artist, Traveler</text>
             <ul class="alignable pull-right navbar-ul">
                 {% for x in site.data.nav %}
                     {% if x.name == "Resume" %}
@@ -80,7 +81,6 @@
                 {% endfor %}
             </ul><br />
         </div>
-        <h1>Engineer, Artist, Traveler</h1>
         <div style="clear:both"></div>
         {% if page.is_contact == true %}
             <div class="container content contact">
