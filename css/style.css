@@ -1,10 +1,18 @@
 body {
   text-align: center;
   color: #333;
+  font-size: 13pt;
+}
+
+h2 {
+  color: #aaa;
 }
 
 #header {
-
+  width:740px;
+	padding:40px 50px .1em 50px;
+  text-align: left;
+  margin: 0 auto;
 }
 
 #content {
@@ -12,5 +20,5 @@ body {
 }
 
 #footer {
-
+  color: #ccc;
 }
