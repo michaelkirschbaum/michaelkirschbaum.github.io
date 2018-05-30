@@ -2,10 +2,19 @@ body {
   text-align: center;
   color: #333;
   font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  font-size: 13pt;
 }
 
 h2 {
-  color: #aaa
+  color: #aaa;
+}
+
+a {
+  color: #333;
+  font-weight: 300;
+  border-bottom: 1px solid #eee;
+	text-decoration: none;
 }
 
 #header {
@@ -21,4 +30,7 @@ h2 {
 
 #footer {
   color: #ccc;
+  text-align: center;
+  margin: 60px 0;
+  font-size: 80%;
 }
