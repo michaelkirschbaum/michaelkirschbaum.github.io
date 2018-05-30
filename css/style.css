@@ -6,8 +6,17 @@ body {
   font-size: 13pt;
 }
 
+h1 {
+  font-weight: 800;
+  font-size: 26pt;
+  margin-bottom: 0;
+}
+
 h2 {
   color: #aaa;
+  font-weight: 400;
+  font-size: 14pt;
+  margin-top: 8pt;
 }
 
 #contact {
