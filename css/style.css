@@ -1,11 +1,11 @@
 body {
   text-align: center;
   color: #333;
-  font-size: 13pt;
+  font-family: 'Work Sans', sans-serif;
 }
 
 h2 {
-  color: #aaa;
+  color: #aaa
 }
 
 #header {
@@ -16,7 +16,7 @@ h2 {
 }
 
 #content {
-
+  background: white;
 }
 
 #footer {
