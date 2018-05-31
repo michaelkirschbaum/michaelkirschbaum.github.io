@@ -24,7 +24,13 @@ h2 {
 h3 {
   font-weight: 800;
   font-size: 14pt;
+  margin-bottom: .3em;
 }
+
+ p {
+  margin-bottom: 2px;
+  margin-top: 2px;
+ }
 
 #contact {
   color: #333;
