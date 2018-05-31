@@ -32,6 +32,11 @@ h3 {
   margin-top: 2px;
  }
 
+ p a:hover, ul a:hover{
+ 	color: #51b4ed;
+ 	border-bottom: 1px solid #51b4ed;
+ }
+ 
 #contact {
   color: #333;
   font-weight: 300;
