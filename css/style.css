@@ -1,11 +1,11 @@
 body {
-  text-align: center;
-  color: #333;
-  font-family: 'Work Sans', sans-serif;
-  font-weight: 300;
-  font-size: 13pt;
   margin: 0;
-  line-height: 1.5em;
+	text-align: center;
+	font-family: 'Work Sans', sans-serif;
+	line-height: 1.5em;
+	color:#333;
+	font-size:13pt;
+	font-weight: 300;
 }
 
 h1 {
@@ -45,14 +45,16 @@ p {
 }
 
 #header {
-  width: 740px;
-	padding: 40px 50px .1em 50px;
-  text-align: left;
-  margin: 0 auto;
+  clear: both;
+  overflow: auto;
 }
 
 #content {
   background: white;
+  width: 740px;
+  padding: 40px 50px .1em 50px;
+  text-align: left;
+  margin: 0 auto;
 }
 
 #footer {
