@@ -38,6 +38,7 @@ ul {
 
 img.art {
   height: 120px;
+  vertical-align: top;
 }
 
 #link {
