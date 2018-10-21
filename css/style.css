@@ -1,3 +1,12 @@
+#social {
+  text-align: right;
+  padding: 10px 10px 0 0;
+}
+
+a:not(:last-child) {
+  margin-right: 2px;
+}
+
 body {
   margin: 0;
 	text-align: center;
@@ -56,7 +65,7 @@ img.art {
 #content {
   background: white;
   width: 740px;
-  padding: 40px 50px .1em 50px;
+  padding: 0 50px .1em 50px;
   text-align: left;
   margin: 0 auto;
 }
